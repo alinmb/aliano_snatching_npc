@@ -48,13 +48,13 @@
 
 ---
 
-|                       |       |
-| --------------------- | ----- |
-| Code is accessible    | Yes   |
-| Subscription-based    | No    |
-| Lines (approximately) | 430 ~ |
-| Requirements          | None  |
-| Support               | Yes   |
+|                       |                                                               |
+| --------------------- | ------------------------------------------------------------- |
+| Code is accessible    | Partially Escrowed, config.lua available to config everything |
+| Subscription-based    | No                                                            |
+| Lines (approximately) | 430 ~                                                         |
+| Requirements          | None                                                          |
+| Support               | Yes                                                           |
 
 ---
 
